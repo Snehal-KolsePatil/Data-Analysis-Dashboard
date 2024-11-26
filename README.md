@@ -6,4 +6,17 @@ creating an interactive dashboard using Microsoft Excel to visualize key insight
 ## Dataset used
 - <a href="https://github.com/Snehal-KolsePatil/Data-Analysis-Dashboard/blob/main/Project1.xlsx">Dataset</a>
 
+## Questions (KPIs)
+- Who purchased more - Men or Women?
+- Purchase of bikes as per income.
+- Relation between age and gender based on number of bikes purchased.
+- Which region got the highest sales?
+
 - Dashboard Interaction <a href="https://github.com/Snehal-KolsePatil/Data-Analysis-Dashboard/blob/main/Screenshot%20(5).png">View Dashboard</a>
+
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the question asked.
+- Merge all tables into one dashboard and apply slicer to make dynamic.
