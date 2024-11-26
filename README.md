@@ -20,3 +20,6 @@ creating an interactive dashboard using Microsoft Excel to visualize key insight
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the question asked.
 - Merge all tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+- <a href="https://raw.githubusercontent.com/Snehal-KolsePatil/Data-Analysis-Dashboard/e3bbbd0360182e11be4b84dbc113ba6c21571ab8/Screenshot%20(5).png">
