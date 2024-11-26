@@ -5,3 +5,5 @@ creating an interactive dashboard using Microsoft Excel to visualize key insight
 
 ## Dataset used
 - <a href="https://github.com/Snehal-KolsePatil/Data-Analysis-Dashboard/blob/main/Project1.xlsx">Dataset</a>
+
+- Dashboard Interaction <a href="https://github.com/Snehal-KolsePatil/Data-Analysis-Dashboard/blob/main/Screenshot%20(5).png">View Dashboard</a>
