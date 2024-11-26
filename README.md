@@ -22,4 +22,5 @@ creating an interactive dashboard using Microsoft Excel to visualize key insight
 - Merge all tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-- <a href="https://raw.githubusercontent.com/Snehal-KolsePatil/Data-Analysis-Dashboard/e3bbbd0360182e11be4b84dbc113ba6c21571ab8/Screenshot%20(5).png">
+- ![Screenshot (5)](https://github.com/user-attachments/assets/f1a6602b-1575-4498-a770-8f849168c50c)
+
